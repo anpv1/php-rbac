@@ -1,5 +1,5 @@
 # php-rbac
-A simple and portable role based access control written in PHP
+A simple and portable ACL using role based access control (RBAC) written in PHP
 
 ### Define role's permissions
 
